@@ -1,0 +1,12 @@
+{
+    "name": "codecraft/resume-php",
+    "description": "My personal resume.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aliyan Nasir",
+            "email": "alyannasir225@gmail.com"
+        }
+    ],
+    "require": {}
+}
