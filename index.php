@@ -30,6 +30,7 @@
     <link rel="stylesheet" href="assets/css/about.css">
     <link rel="stylesheet" href="assets/css/resume.css">
     <link rel="stylesheet" href="assets/css/services.css">
+    <link rel="stylesheet" href="assets/css/contact.css">
 
     <!-- Scripts -->
     <script src="assets/script/navbar.js"></script>
@@ -39,7 +40,7 @@
 
     <header id="header">
         <div class="container">
-            <h1><a href="/index.php">Alyan Nasir</a></h1>
+            <h1><a href="/index.php">Aliyan Nasir</a></h1>
             <h2>I'm a passionate <span>Web Developer</span> from Islamabad, Pakistan</h2>
 
             <?php if(file_exists('content/navbar.php')) {
@@ -70,13 +71,18 @@
         } ?>
     </section>
 
-    <section id="portfolio" class="portfolio">
+    <!-- <section id="portfolio" class="portfolio">
 
-    </section>
+    </section> -->
 
     <section id="contact" class="contact">
-
+        <?php if(file_exists('content/contact.php')) {
+            include('content/contact.php');
+        } ?>
     </section>
 
+    <footer>
+        <p>Designed by <a href="#">CodeCraft</a></p>
+    </footer>
 </body>
 </html>
