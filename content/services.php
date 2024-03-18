@@ -9,36 +9,36 @@
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box">
                 <div class="icon"><i class="bx bxl-dribbble"></i></div>
-                <h4><a href="">Lorem Ipsum</a></h4>
-                <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+                <h4><a href="">Extension development</a></h4>
+                <p>Expertise in developing custom extensions to enhance website functionality and meet specific business requirements.</p>
             </div>
         </div>
 
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="icon-box">
                 <div class="icon"><i class="bx bx-file"></i></div>
-                <h4><a href="">Sed ut perspiciatis</a></h4>
-                <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+                <h4><a href="">Bulk data import/export</a></h4>
+                <p>Proficient in implementing bulk data import/export solutions for efficient data management and migrations.</p>
             </div>
         </div>
 
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
                 <div class="icon"><i class="bx bx-tachometer"></i></div>
-                <h4><a href="">Magni Dolores</a></h4>
-                <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+                <h4><a href="">Speed &amp; Performance Optimization</a></h4>
+                <p>Skilled in optimizing website speed and performance to deliver user experience</p>
             </div>
         </div>
 
         <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
                 <div class="icon"><i class="bx bx-world"></i></div>
-                <h4><a href="">Nemo Enim</a></h4>
-                <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+                <h4><a href="">Package development</a></h4>
+                <p>Expertise in developing custom packages for Laravel applications to improve code reusability and development.</p>
             </div>
         </div>
 
-        <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
+        <!-- <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4">
             <div class="icon-box">
                 <div class="icon"><i class="bx bx-slideshow"></i></div>
                 <h4><a href="">Dele cardo</a></h4>
@@ -52,7 +52,7 @@
                 <h4><a href="">Divera don</a></h4>
                 <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
             </div>
-        </div>
+        </div> -->
 
     </div>
 
