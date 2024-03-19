@@ -82,7 +82,7 @@
     </section>
 
     <footer>
-        <p>Designed by <a href="#">CodeCraft</a></p>
+        <p>Designed by <a href="#">CodeWave</a></p>
     </footer>
 </body>
 </html>
