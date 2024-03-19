@@ -8,5 +8,10 @@
             "email": "alyannasir225@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^8.2",
+        "autoload": {
+            "files": ["index.php"]
+        }
+    }
 }
