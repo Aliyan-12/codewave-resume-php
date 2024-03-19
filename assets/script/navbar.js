@@ -24,5 +24,10 @@
                 }
             });
         });
+
+        var title = document.getElementById('title');
+        var name = $('#header .container h1 a');
+        title.append(name.text());
+        
     });
 })();
